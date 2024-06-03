@@ -1,0 +1,23 @@
+{
+
+  "structures": [
+    {
+      "structure": "dungeonmod:first_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 905688468,
+
+    //905688468 new
+    //1476915302 old
+
+    "spacing": 40,
+
+
+    "separation": 15,
+
+
+    "type": "minecraft:random_spread"
+  }
+}
